@@ -25,10 +25,6 @@ Increasing wait times for consultations and combating health misinformation, Car
 
 **CareConnect** aims to bring efficiency and reliability to medical guidance, ensuring users receive accurate and timely assistance, thereby contributing to a more effective healthcare system.
 
-## Expected Results
-
-CareConnect aims to develop a text generation LLM fine-tuned on a medical question-answering dataset. The model will reliably retrieve relevant factual information and provide appropriate responses, capable of coherently conversing with users to address their queries. The project will compare the performance of various models and address challenges such as low-quality responses, model performance, and latency.
-
 
 ## Demo
 <div align="center">
