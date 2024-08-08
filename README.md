@@ -37,6 +37,29 @@ CareConnect aims to develop a text generation LLM fine-tuned on a medical questi
   </a>
 </div>
 
+# [Performance Comparison of Base and Fine-tuned LLMs](https://github.com/your-repo-link)
+### Your Name
+
+This project compares the performance metrics of a base Language Learning Model (LLM) and its fine-tuned versions. The following table and chart summarize the performance across various metrics.
+
+### Performance Metrics
+
+| Metric                | Base LLM | Base RAG Cosine | Fine-tuned LLM | Fine-tuned RAG Cosine |
+|-----------------------|----------|-----------------|----------------|----------------------|
+| BERT Precision        | 0.839389 | 0.838776        | 0.838845       | 0.842095             |
+| BERT Recall           | 0.824338 | 0.823488        | 0.833013       | 0.836036             |
+| BERT F1               | 0.831632 | 0.830919        | 0.835787       | 0.838912             |
+| BLEU                  | 0.014211 | 0.010655        | 0.023548       | 0.022102             |
+| ROUGE-1               | 0.217740 | 0.212416        | 0.242389       | 0.250984             |
+| ROUGE-2               | 0.024242 | 0.022648        | 0.034651       | 0.033410             |
+| ROUGE-L               | 0.123481 | 0.120275        | 0.135517       | 0.138729             |
+| ROUGE-Lsum            | 0.123884 | 0.121954        | 0.135339       | 0.138489             |
+| Semantic Similarity   | 0.459603 | 0.459985        | 0.532590       | 0.545531             |
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/performance_comparison_chart.png" alt="Performance Comparison Chart" width="600" height="400">
+</div>
+
 
 
 <!-- SOCIALS -->
