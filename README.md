@@ -51,9 +51,11 @@ CareConnect aims to develop a text generation LLM fine-tuned on a medical questi
 | ROUGE-Lsum            | 0.123884 | 0.121954        | 0.135339       | 0.138489             |
 | Semantic Similarity   | 0.459603 | 0.459985        | 0.532590       | 0.545531             |
 
+<!-- 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/276f0339-8cfb-4bf0-9f5b-4d06c118f7ff" alt="Performance Comparison Chart" width="600" height="400">
 </div>
+-->
 
 <!-- SOCIALS -->
 ## Socials
