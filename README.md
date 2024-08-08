@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/hakeematyab/CareConnect/">
-    <img src="https://github.com/user-attachments/assets/b0431fe0-b35e-40fd-a3d7-a9c0b37ea36d" alt="Logo" width="250" height="250">
+    <img src="https://github.com/user-attachments/assets/ae4a4e52-043f-4a59-80d4-4d0952c634c7" alt="Logo" width="250" height="250">
   </a>
 </div>
 
@@ -28,6 +28,16 @@ Increasing wait times for consultations and combating health misinformation, Car
 ## Expected Results
 
 CareConnect aims to develop a text generation LLM fine-tuned on a medical question-answering dataset. The model will reliably retrieve relevant factual information and provide appropriate responses, capable of coherently conversing with users to address their queries. The project will compare the performance of various models and address challenges such as low-quality responses, model performance, and latency.
+
+
+## Demo
+<div align="center">
+  <a href="https://github.com/hakeematyab/CareConnect/">
+    <img src="https://github.com/user-attachments/assets/ac813ed0-de6e-42bb-9def-7649ca04c5ea">
+  </a>
+</div>
+
+
 
 <!-- SOCIALS -->
 ## Socials
