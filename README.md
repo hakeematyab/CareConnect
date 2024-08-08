@@ -29,6 +29,16 @@ Increasing wait times for consultations and combating health misinformation, Car
 
 CareConnect aims to develop a text generation LLM fine-tuned on a medical question-answering dataset. The model will reliably retrieve relevant factual information and provide appropriate responses, capable of coherently conversing with users to address their queries. The project will compare the performance of various models and address challenges such as low-quality responses, model performance, and latency.
 
+
+## Demo
+<div align="center">
+  <a href="https://github.com/hakeematyab/CareConnect/">
+    <img src="https://github.com/user-attachments/assets/ac813ed0-de6e-42bb-9def-7649ca04c5ea">
+  </a>
+</div>
+
+
+
 <!-- SOCIALS -->
 ## Socials
 
