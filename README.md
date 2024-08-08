@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/hakeematyab/CareConnect/">
-    <img src="https://github.com/user-attachments/assets/b0431fe0-b35e-40fd-a3d7-a9c0b37ea36d" alt="Logo" width="250" height="250">
+    <img src="https://github.com/user-attachments/assets/ae4a4e52-043f-4a59-80d4-4d0952c634c7" alt="Logo" width="250" height="250">
   </a>
 </div>
 
